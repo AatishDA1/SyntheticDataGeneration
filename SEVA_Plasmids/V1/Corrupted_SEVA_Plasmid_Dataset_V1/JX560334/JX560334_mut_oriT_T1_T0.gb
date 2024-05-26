@@ -1,0 +1,135 @@
+LOCUS       JX560334_mut_oriT_T1_T0                3411 bp    DNA     circular SYN 02-OCT-2014
+DEFINITION  Cloning vector pSEVA341, complete sequence.
+ACCESSION   JX560334
+VERSION     JX560334.1
+KEYWORDS    .
+SOURCE      Cloning vector pSEVA341
+  ORGANISM  Cloning vector pSEVA341
+            other sequences; artificial sequences; vectors.
+REFERENCE   1  (bases 1 to 3415)
+  AUTHORS   Silva-Rocha,R., Martinez-Garcia,E., Chavarria,M., Calles,B.,
+            Arce-Rodriguez,A., de las Heras,A., Paez-Espino,D.,
+            Durante-Rodriguez,G., Kim,J., Nikel,P.I., Platero,R. and de
+            Lorenzo,V.
+  TITLE     The Standard European Vector Architecture (SEVA): a coherent
+            platform for analysis and deployment of complex prokaryotic
+            phenotypes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 3415)
+  AUTHORS   Silva-Rocha,R., Martinez-Garcia,E., Chavarria,M., Calles,B.,
+            Arce-Rodriguez,A., de las Heras,A., Paez-Espino,D.,
+            Durante-Rodriguez,G., Kim,J., Nikel,P.I., Platero,R. and de
+            Lorenzo,V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-AUG-2012) Systems Biology Program, Centro Nacional de
+            Biotecnologia-CSIC, C/ Darwin 3, Campus de Cantoblanco, Madrid,
+            Madrid 28049, Spain
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: ApE v. v2.0.40
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3415
+                     /organism="Cloning vector pSEVA341"
+                     /mol_type="other DNA"
+                     /db_xref="taxon:1246733"
+     primer_bind     9..32
+                     /note="R24"
+     primer_bind     complement(121..144)
+                     /note="F24"
+     regulatory      151..253
+                     /regulatory_class="terminator"
+                     /note="T0"
+     gene            400..1059
+                     /gene="cat"
+     CDS             400..1059
+                     /gene="cat"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chloramphenicol acetyltransferase"
+                     /protein_id="AFV59787.1"
+                     /translation="MEKKITGYTTVDISQWHRKEHFEAFQSVAQCTYNQTVQLDITAF
+                     LKTVKKNKHKFYPAFIHILARLMNAHPEFRMAMKDGELVIWDSVHPCYTVFHEQTETF
+                     SSLWSEYHDDFRQFLHIYSQDVACYGENLAYFPKGFIENMFFVSANPWVSFTSFDLNV
+                     ANMDNFFAPVFTMGKYYTQGDKVLMPLAIQVHHAVCDGFHVGRMLNELQQYCDEWQGG
+                     A"
+     misc_feature    1073..1318
+                     /note="oriT"
+     gene            complement(2052..2894)
+                     /gene="rep"
+     CDS             complement(2052..2894)
+                     /gene="rep"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="replication protein"
+                     /protein_id="AFV59788.1"
+                     /translation="MSNVASPPMVYKSNALVEAAYRLSVQEQRIVLACISQVKRSEPV
+                     TDEVMYSVTAEDIATMAGVPIESSYNQLKEAALRLKRREVRLTQEPNGKGKRPSVMIT
+                     GWVQTIIYREGEGRVELRFTKDMLPYLTELTKQFTKYALADVAKMDSTHAIRLYELLM
+                     QWDSIGQREIEIDQLRKWFQLEGRYPSIKDFKLRVLDPAVTQINEHSPLQVEWAQRKT
+                     GRKVTHLLFSFGPKKPAKAVGKAPAKRKAGKISDAEIAKQARPGETWEAARARLTQMP
+                     LDLA"
+     regulatory      3310..3414
+                     /regulatory_class="terminator"
+                     /note="T1"
+ORIGIN      
+                 1 ttaattaaag cggataacaa tttcacacag gaggccgcct aggccgcggc cgcgcgaatt
+        61 cgagctcggt acccggggat cctctagagt cgacctgcag gcatgcaagc ttgcggccgc
+       121 gtcgtgactg ggaaaaccct ggcgactagt cttggactcc tgttgataga tccagtaatg
+       181 acctcagaac tccacctgga tttgttcaga acgctcggtt gccgccgggc gttttttatt
+       241 ggtgagaatc caggggtccc caataattac gatttaaatt ggcgaaaatg agacgttgat
+       301 cggcacgtaa gaggttccaa ctttcaccat aatgaaataa gatcactacc gggcgtattt
+       361 tttgagttat cgagattttc aggagctaag gaagctaaaa tggagaaaaa aatcactgga
+       421 tataccaccg ttgatatatc ccaatggcat cgtaaagaac attttgaggc atttcagtca
+       481 gttgctcaat gtacctataa ccagaccgtt cagctggata ttacggcctt tttaaagacc
+       541 gtaaagaaaa ataagcacaa gttttatccg gcctttattc acattcttgc ccgcctgatg
+       601 aatgctcatc cggaatttcg tatggcaatg aaagacggtg agctggtgat atgggatagt
+       661 gttcaccctt gttacaccgt tttccatgag caaactgaaa cgttttcatc gctctggagt
+       721 gaataccacg acgatttccg gcagtttcta cacatatatt cgcaagatgt ggcgtgttac
+       781 ggtgaaaacc tggcctattt ccctaaaggg tttattgaga atatgttttt cgtctcagcc
+       841 aatccctggg tgagtttcac cagttttgat ttaaacgtgg ccaatatgga caacttcttc
+       901 gcccccgttt tcaccatggg caaatattat acgcaaggcg acaaggtgct gatgccgctg
+       961 gcgattcagg ttcatcatgc cgtttgtgat ggcttccatg tcggcagaat gcttaatgaa
+      1021 ttacaacagt actgcgatga gtggcagggc ggggcgtaat ttgacttttg tccttttccg
+      1081 ctgcataacc ctgcttcggg gtatagcgat tttttcggta tatccatcct ttttcgcacg
+      1141 atatacagga ttttgccaaa gggttcgtgt agactttcct tggtgtatcc aacggcgtca
+      1201 gccgggcagg ataggtgaag taggcccacc cgcgagcggg tgttccttct tcactgtccc
+      1261 ttattcgcac ctggcggtgc tcaacgggaa tcctgctctg cgaggctggc cgtaggccgg
+      1321 ccgataatct catgaccaaa atcccttaac gtgagttttc gttccactga gcgtcagacc
+      1381 ccgtagaaaa gatcaaagga tcttcttgag atcctttttt tctgcgcgta atctgctgct
+      1441 tgcaaacaaa aaaaccaccg ctaccagcgg tggtttgttt gccggatcaa gagctaccaa
+      1501 ctctttttcc gaaggtaact ggcttcagca gagcgcagat accaaatact gttcttctag
+      1561 tgtagccgta gttaggccac cacttcaaga actctgtagc accgcctaca tacctcgctc
+      1621 tgctaatcct gttaccagtg gctgctgcca gtggcgataa gtcgtgtctt accgggttgg
+      1681 actcaagacg atagttaccg gataaggcgc agcggtcggg ctgaacgggg ggttcgtgca
+      1741 cacagcccag cttggagcga acgacctaca ccgaactgag atacctacag cgtgagctat
+      1801 gagaaagcgc cacgcttccc gaagggagaa aggcggacag gcatccggta agcggcaggg
+      1861 tcggaacagg agagcgcacg agggagcttc cagggggaaa cgcctggtat ctttatagtc
+      1921 ctgtcgggtt tcgccacctc tgacttgagc gtcgattttt gtgatgctcg tcaggggggc
+      1981 ggagcctatg gaaaaacgcc agcaacgcgg ccgtgaaagg caggccggtc cgtggtggcc
+      2041 acggcctcta ggccagatcc agcggcatct gggttagtcg agcgcgggcc gcttcccatg
+      2101 tctcaccagg gcgagcctgt ttcgcgatct cagcatctga aatcttcccg gccttgcgct
+      2161 tcgctggggc cttacccacc gccttggcgg gcttcttcgg tccaaaactg aacaacagat
+      2221 gtgtgacctt gcgcccggtc tttcgctgcg cccactccac ctgtagcggg ctgtgctcgt
+      2281 tgatctgcgt cacggctgga tcaagcactc gcaacttgaa gtccttgatc gagggatacc
+      2341 ggccttccag ttgaaaccac tttcgcagct ggtcaatttc tatttcgcgc tggccgatgc
+      2401 tgtcccattg catgagcagc tcgtaaagcc tgatcgcgtg ggtgctgtcc atcttggcca
+      2461 cgtcagccaa ggcgtatttg gtgaactgtt tggtgagttc cgtcaggtac ggcagcatgt
+      2521 ctttggtgaa cctgagttct acacggccct caccctcccg gtagatgatt gtttgcaccc
+      2581 agccggtaat catcacactc ggtcttttcc ccttgccatt gggctcttgg gttaaccgga
+      2641 cttcccgccg tttcaggcgc agggccgctt ctttgagctg gttgtaggaa gattcgatag
+      2701 ggacacccgc catcgtcgct atgtcctccg ccgtcactga atacatcact tcatcggtga
+      2761 caggctcgct cctcttcacc tggctaatac aggccagaac gatccgctgt tcctgaacac
+      2821 tgaggcgata cgcggcctcg accagggcat tgcttttgta aaccattggg ggtgaggcca
+      2881 cgttcgacat tccttgtgta taaggggaca ctgtatctgc gtcccacaat acaacaaatc
+      2941 cgtcccttta caacaacaaa tccgtccctt cttaacaaca aatccgtccc ttaatggcaa
+      3001 caaatccgtc cctttttaaa ctctacaggc cacggattac gtggcctgta gacgtcctaa
+      3061 aaggtttaaa agggaaaagg aagaaaaggg tggaaacgca aaaaacgcac cactacgtgg
+      3121 ccccgttggg gccgcatttg tgcccctgaa ggggcggggg aggcgtctgg gcaatccccg
+      3181 ttttaccagt cccctatcgc cgcctgagag ggcgcaggaa gcgagtaatc agggtatcga
+      3241 ggcggattca cccttggcgt ccaaccagcg gcaccagcgg cgcctgagag gggcgcgccc
+      3301 agctgtctag ggcggcagat ttgtcctact caggagagcg ttcaccgaca aacaacagat
+      3361 aaaacgaaag gcccagtctt tcgactgagc ctttcgtttt atttgatgcc t
+
+//
+
