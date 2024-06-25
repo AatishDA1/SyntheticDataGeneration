@@ -1,4 +1,4 @@
-LOCUS       JX560335_mut_T1                5120 bp    DNA     circular SYN 02-OCT-2014
+LOCUS       JX560335_mut_T1                5591 bp    DNA     circular SYN 02-OCT-2014
 DEFINITION  Cloning vector pSEVA351, complete sequence.
 ACCESSION   JX560335
 VERSION     JX560335.1
@@ -187,9 +187,17 @@ ORIGIN
       4801 ggcagcagcg ccccacaagg gcgctgataa ccgcgcctag tggattattc ttagataatc
       4861 atggatggat ttttccaaca ccccgccagc ccccgcccct gctgggtttg caggtttggg
       4921 ggcgtgacag ttattgcagg ggttcgtgac agttattgca ggggggcgtg acagttattg
-      4981 caggggttcg tgacagttag ggcgcgccca gctgtctagg gcggcggatt tgtcctagtc
-      5041 aggagagcgt tcaccgacaa acaacagata aaacgaaagg cccagtcttt cgactgagcc
-      5101 tttcgtttta tttgatgcct
+      4981 caggggttcg tgacagttag ggcgcgccca gctgtctagg gcgtaaggat gaccacatcg
+      5041 acggctccaa ccgctaccgt agtgtactgg actaggttga gtcgcacagc ggggtgtgca
+      5101 tcactttctt attaccgtca gccgctagtc ctggccgagc gatgctgatt atttttgtgt
+      5161 gcgtgcttcc gctgtgatat caggcggatt tgtccattat ggtataactt ctgggggttt
+      5221 ggcttgattg catctgcgga ataaaagaga attttctctg ggcgaggtgc aagccatacc
+      5281 gcatatcgca gcctacagat gtccatgccc agcggcagat aaattgattt gtacaatggt
+      5341 ccatcaaata tggatcttcc ggaccggggt cgcgacacgg caaaaaatct aagccgaaag
+      5401 ccgtatttcc gaaaccggtc atactcagga gagcgttcac cgacaaacaa cagataaaac
+      5461 gaaaggccca gtccgagacg agtccactgt agtgaagtgg tcagatatgg gccgacggat
+      5521 aatcagatgc cttagaagtt ccgcgatgtc tccggacctt tcgactgagc ctttcgtttt
+      5581 atttgatgcc t
 
 //
 

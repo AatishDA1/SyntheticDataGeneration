@@ -1,4 +1,4 @@
-LOCUS       JX560330_mut_T1                5275 bp    DNA     circular SYN 02-OCT-2014
+LOCUS       JX560330_mut_T1                5319 bp    DNA     circular SYN 02-OCT-2014
 DEFINITION  Cloning vector pSEVA251, complete sequence.
 ACCESSION   JX560330
 VERSION     JX560330.1
@@ -190,8 +190,9 @@ ORIGIN
       4981 gataaccgcg cctagtggat tattcttaga taatcatgga tggatttttc caacaccccg
       5041 ccagcccccg cccctgctgg gtttgcaggt ttgggggcgt gacagttatt gcaggggttc
       5101 gtgacagtta ttgcaggggg gcgtgacagt tattgcaggg gttcgtgaca gttagggcgc
-      5161 gcccagctgt ctagggcggc ggatttgtcc tactcacgag agcgttcacc gacaaacaac
-      5221 agataaaacg aaaggcccag tctttcgact gagcctttcg ttttatttga tgcct
+      5161 gcccagctgt ctagggctaa accacctcct tgtctgcaac atacaaaaaa atgcgtggtc
+      5221 tagcaattcg ggtactccga ctacacactg gaggtcccat cgtcacaatg gggcatttaa
+      5281 cgaaaggccc agtctttcga ctgagccttt cgttttatt
 
 //
 

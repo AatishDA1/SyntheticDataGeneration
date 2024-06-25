@@ -1,4 +1,4 @@
-LOCUS       JX560336_mut_oriT                2052 bp    DNA     circular SYN 25-SEP-2014
+LOCUS       JX560336_mut_oriT                1987 bp    DNA     circular SYN 25-SEP-2014
 DEFINITION  Cloning vector pSEVA411, complete sequence.
 ACCESSION   JX560336
 VERSION     JX560336.2
@@ -95,20 +95,19 @@ ORIGIN
       1081 cggcaaaatc gcgccgaagg atgtcgctgc cgactgggca atggagcgcc tgccggccca
       1141 gtatcagccc gtcatacttg aagctagaca ggcttatctt ggacaagaag aagatcgctt
       1201 ggcctcgcgc gcagatcagt tggaagaatt tgtccactac gtgaaaggcg agatcaccaa
-      1261 ggtagtcggc aaataagaca attgtcctat tccgctgcat aaccctgctt cggggtcatt
-      1321 atagcgattt tttcggtata tccatccttt ttcgcacgat atacaggatt ttgccaaagg
-      1381 gttcgtgtag actttccttg gtgtatccaa cggcgtcagc cgggcaggat aggtgaagta
-      1441 ggcccacccg cgagcgggtg ttccttcttc actgtccctt attcgcacct ggcggtgctc
-      1501 aacgggaatc ctgctctgcg aggctggccg taggccggcc gatctgaaga tcagcagttc
-      1561 aacctgttga tagtacgtac taagctctca tgtttcacgt actaagctct catgtttaac
-      1621 gtactaagct ctcatgttta acgaactaaa ccctcatggc taacgtacta agctctcatg
-      1681 gctaacgtac taagctctca tgtttcacgt actaagctct catgtttgaa caataaaatt
-      1741 aatataaatc agcaacttaa atagcctcta aggttttaag ttttataaga aaaaaaagaa
-      1801 tatataaggc ttttaaagcc tttaaggttt aacggttgtg gacaacaagc cagggatgta
-      1861 acgcactgag aagcccttag agcctctcaa agcaattttg agtgacacag gaacacttaa
-      1921 cggctgacat ggggcgcgcc cagctgtcta gggcggcgga tttgtcctac tcaggagagc
-      1981 gttcaccgac aaacaacaga taaaacgaaa ggcccagtct ttcgactgag cctttcgttt
-      2041 tatttgatgc ct
+      1261 ggtagtcggc aaataagaca attgtccttt tccgctgcat aaccctgctt cggggtcatt
+      1321 atagcgattg atatacagga ttttgccaaa gggttcagca attacgttat caagcaatat
+      1381 agttaattcc gcgcctatca ctaataaatc tcgaggccag atgtgaagtt acttggattc
+      1441 gggatcgtgt agactttcct tggtgtatcc aacggcgtca gccgggcagg ataggtgaag
+      1501 taggcccacc cgcgagcggg tgttctgttt cacgtactaa gctctcatgt ttaacgtact
+      1561 aagctctcat gtttaacgaa ctaaaccctc atggctaacg tactaagctc tcatggctaa
+      1621 cgtactaagc tctcatgttt cacgtactaa gctctcatgt ttgaacaata aaattaatat
+      1681 aaatcagcaa cttaaatagc ctctaaggtt ttaagtttta taagaaaaaa aagaatatat
+      1741 aaggctttta aagcctttaa ggtttaacgg ttgtggacaa caagccaggg atgtaacgca
+      1801 ctgagaagcc cttagagcct ctcaaagcaa ttttgagtga cacaggaaca cttaacggct
+      1861 gacatggggc gcgcccagct gtctagggcg gcggatttgt cctactcagg agagcgttca
+      1921 ccgacaaaca acagataaaa cgaaaggccc agtctttcga ctgagccttt cgttttattt
+      1981 gatgcct
 
 //
 

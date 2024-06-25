@@ -1,4 +1,4 @@
-LOCUS       JX560368_mut_T1                3905 bp    DNA     circular SYN 13-SEP-2019
+LOCUS       JX560368_mut_T1                4010 bp    DNA     circular SYN 13-SEP-2019
 DEFINITION  Cloning vector pSEVA533, complete sequence.
 ACCESSION   JX560368
 VERSION     JX560368.1
@@ -149,9 +149,10 @@ ORIGIN
       3601 ggcaatccct gtggtcaagc tcgtgggcag gcgcagcctg tccatcagct tgtccagcag
       3661 ggttgtccac gggccgagcg aagcgagcca gccggtggcc gctcgcggcc atcgtccaca
       3721 tatccacggg ctggcaaggg agcgcagcga ccgcgcaggg cgaagcccgg agagcaagcc
-      3781 cgtagggggg gcgcgcccag ctgtctaggg cggcggattt gtcctactca ggagagcgtt
-      3841 caccgacaaa caacagataa aacgaaaggc ccagtctttc gactgagcct ttcgttttat
-      3901 ttcct
+      3781 cgtagggggg gcgcgcccag ctgtctaggg cggcggatcc ccatgtttag caactagtga
+      3841 tccaagcagc aacaggtact gatgtttcaa tggaactcag gggatcgctt ccagcggttc
+      3901 tacggaatca tggtgggtct taattagaga cgattttttt taagtgtgcg tctatcgttc
+      3961 aaatataagt gtgttggctg tcctactcag gttcgtttta tttgatgcct
 
 //
 

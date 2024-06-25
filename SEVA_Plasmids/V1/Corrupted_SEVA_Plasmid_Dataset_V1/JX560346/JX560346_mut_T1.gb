@@ -1,4 +1,4 @@
-LOCUS       JX560346_mut_T1                1871 bp    DNA     circular SYN 25-SEP-2014
+LOCUS       JX560346_mut_T1                2082 bp    DNA     circular SYN 25-SEP-2014
 DEFINITION  Cloning vector pSEVA611, complete sequence.
 ACCESSION   JX560346
 VERSION     JX560346.2
@@ -101,9 +101,12 @@ ORIGIN
       1561 atataaatca gcaacttaaa tagcctctaa ggttttaagt tttataagaa aaaaaagaat
       1621 atataaggct tttaaagcct ttaaggttta acggttgtgg acaacaagcc agggatgtaa
       1681 cgcactgaga agcccttaga gcctctcaaa gcaattttga gtgacacagg aacacttaac
-      1741 ggctgacatg gggcgcgccc agctgtctag ggcggcggat ttgtgctact caggagagcg
-      1801 ttcaccgaca aacaacagat aaaacgaaag gcccagtctt tcgactgagc ctttcgtttt
-      1861 atttgatgcc t
+      1741 ggctgacatg gggcgcgccc agctgtctag aatagcagat cgtcctcgct ctcacctcgt
+      1801 agacccggac tagcagctga tagtcgggat agtggcccgt gatgttctat gcagtatgag
+      1861 atgtcgcata atatcactac gtcactgaac aacgtctttt atgtgactat aacagctcct
+      1921 atcgctcgag ggcggcggat ttgtcttggc aaagcgagcg taacaaattc ggttttggcg
+      1981 cattcatgtc gccattctac tcaggagagc gttcaccgac aaacaacaga taaaacgaaa
+      2041 ggcccagtct ttcgactgag cctttcgttt tatttgatgc ct
 
 //
 

@@ -1,4 +1,4 @@
-LOCUS       JX560341_mut_oriT_T1                2323 bp    DNA     circular SYN 13-SEP-2019
+LOCUS       JX560341_mut_oriT_T1                2440 bp    DNA     circular SYN 13-SEP-2019
 DEFINITION  Cloning vector pSEVA511, complete sequence.
 ACCESSION   JX560341
 VERSION     JX560341.2
@@ -102,19 +102,21 @@ ORIGIN
       1381 ctcgcggctc ttaccagcct aacttcgatc actggaccgc tgatcgtcac ggcgatttat
       1441 gccgcctcgg cgagcacatg gaacgggttg gcatggattg taggcgccgc cctatacctt
       1501 gtctgcctcc ccgcgttgcg tcgcggtgca tggagccggg ccacctcgac ctgagacaat
-      1561 tgtccttttc cgctgcataa ccctgcttcg gggtcattat agcgattttt tcggtatatc
-      1621 catccttttt cgcacgatat acaggatttt gccaaagggt tcgtgtagac tttccttggt
-      1681 gtatccaacg gcgtcagccg ggcaggtgaa gtaggcccac ccgcgagcgg gtgttccttc
-      1741 ttcactgtcc cttattcgca cctggcggtg ctcaacggga atcctgctct gcgaggctgg
-      1801 ccgtaggccg gccgatctga agatcagcag ttcaacctgt tgatagtacg tactaagctc
-      1861 tcatgtttca cgtactaagc tctcatgttt aacgtactaa gctctcatgt ttaacgaact
-      1921 aaaccctcat ggctaacgta ctaagctctc atggctaacg tactaagctc tcatgtttca
-      1981 cgtactaagc tctcatgttt gaacaataaa attaatataa atcagcaact taaatagcct
-      2041 ctaaggtttt aagttttata agaaaaaaaa gaatatataa ggcttttaaa gcctttaagg
-      2101 tttaacggtt gtggacaaca agccagggat gtaacgcact gagaagccct tagagcctct
-      2161 caaagcaatt ttgagtgaca caggaacact taacggctga catggggcgc gcccagctgt
-      2221 ctagggcggc ggatttgtcc tactcaggag agcgttcacc gacaaacaac agaaaacgaa
-      2281 aggcccagtc tttcgactga gcctttcgtt ttatttgatg cct
+      1561 tgtccttttc cgcttaggtt ctacaatagg tccacatcct caatttaacg gttgttcctt
+      1621 tttcgcacga tatacaggat tttgccaaag ggttatggcc agcactttcc ttggtgtatc
+      1681 caacggcgtc agccgggcag gataggtgaa gtaggctgct caacgggaat cctgctctgc
+      1741 gaggctggcc gtaggccggc cgatctgaag atcagcagtt caacctgttg atagtacgta
+      1801 ctaagctctc atgtttcacg tactaagctc tcatgtttaa cgtactaagc tctcatgttt
+      1861 aacgaactaa accctcatgg ctaacgtact aagctctcat ggctaacgta ctaagctctc
+      1921 atgtttcacg tactaagctc tcatgtttga acaataaaat taatataaat cagcaactta
+      1981 aatagcctct aaggttttaa gttttataag aaaaaaaaga atatataagg cttttaaagc
+      2041 ctttaaggtt taacggttgt ggacaacaag ccagggatgt aacgcactga gaagccctta
+      2101 gagcctctca aagcaatttt gagtgacaca ggaacactta acggctgaca tggggcgcgc
+      2161 ccagctgtct agggcggcgg atttgtccta ctcaggagag cgttcaccga caaacaacag
+      2221 ataaaacgaa aggcccagtc tttcgactga gccttgttaa ctgttgccgt attcccacta
+      2281 acagtcggac tcgcacatga tgctcagtaa ccgactacgc actcgggcca accactcgcg
+      2341 gtaacccgtc cgtggacatg tcctcgtttt atttgggact gtcattatag tatattggtc
+      2401 tctgagacgc tagctaattt cgcatatctc cattaatctc
 
 //
 

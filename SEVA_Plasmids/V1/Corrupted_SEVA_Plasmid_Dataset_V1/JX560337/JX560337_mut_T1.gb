@@ -1,4 +1,4 @@
-LOCUS       JX560337_mut_T1                3887 bp    DNA     circular SYN 30-SEP-2014
+LOCUS       JX560337_mut_T1                4005 bp    DNA     circular SYN 30-SEP-2014
 DEFINITION  Cloning vector pSEVA421, complete sequence.
 ACCESSION   JX560337
 VERSION     JX560337.2
@@ -149,9 +149,11 @@ ORIGIN
       3541 tcgagcctgc ccctcatctg tcaacgccgc gccgggtgag tcggcccctc aagtgtcaac
       3601 gtccgcccct catctgtcag tgagggccaa gttttccgcg aggtatccac aacgccggcg
       3661 gccctacatg gctctgctgt agtgagtggg ttgcgctccg gcagcggtcc tgatcccccg
-      3721 cagaaaaaaa ggatctcaag aagatccttt gatcttttct acggcgcgcc cagctgtcta
-      3781 gggcgaggcc gcggatttgt cctactcagg agagcgttca ccgacaaaca acagataaaa
-      3841 cgaaaggccc agtctttcga ctgagccttt cgttttattt gatgcct
+      3721 cagaaaaaaa ggatctcaag aagatccttt gatcttttct acggcgcgcc cagctgtcct
+      3781 gagcggatcg ggccgtcatt tagacacgac ttagcaaaaa tctagttcta gggcggcttg
+      3841 atggtaaact attccgtctg tatcctagag ggggtggaat actatccggc ggctagtcgt
+      3901 aactaacggc gcctatgtcc ggattctccc tcgtagattg caatattcac cacgtgcttg
+      3961 actcgacgga taacatgtag tagcttgggc agtgcatccg ctcca
 
 //
 

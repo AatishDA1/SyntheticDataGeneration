@@ -1,4 +1,4 @@
-LOCUS       JX560346_mut_oriT                1871 bp    DNA     circular SYN 25-SEP-2014
+LOCUS       JX560346_mut_oriT                1554 bp    DNA     circular SYN 25-SEP-2014
 DEFINITION  Cloning vector pSEVA611, complete sequence.
 ACCESSION   JX560346
 VERSION     JX560346.2
@@ -92,18 +92,12 @@ ORIGIN
       1021 cgccacctaa caattcgttc aagccgagat cggcttcccg gccgcggagt tgttcggtaa
       1081 attggacaac ggtccgcgcg ttgtcctttt ccgctgcata accctgcttc ggggtcatta
       1141 tagcgatttt ttcggtatat ccatcctttt tcgcacgata tacaggattt tgccaaaggg
-      1201 ttcgtgtaga ctttccttgg tgtatccaac ggcgtcagcc gggcaggata ggtgaagtag
-      1261 gcccacccgc gagggggtgt tccttcttca ctgtccctta ttcgcacctg gcggtgctca
-      1321 acgggaatcc tgctctgcga ggctggccgt aggccggccg atctgaagat cagcagttca
-      1381 acctgttgat agtacgtact aagctctcat gtttcacgta ctaagctctc atgtttaacg
-      1441 tactaagctc tcatgtttaa cgaactaaac cctcatggct aacgtactaa gctctcatgg
-      1501 ctaacgtact aagctctcat gtttcacgta ctaagctctc atgtttgaac aataaaatta
-      1561 atataaatca gcaacttaaa tagcctctaa ggttttaagt tttataagaa aaaaaagaat
-      1621 atataaggct tttaaagcct ttaaggttta acggttgtgg acaacaagcc agggatgtaa
-      1681 cgcactgaga agcccttaga gcctctcaaa gcaattttga gtgacacagg aacacttaac
-      1741 ggctgacatg gggcgcgccc agctgtctag ggcggcggat ttgtcctact caggagagcg
-      1801 ttcaccgaca aacaacagat aaaacgaaag gcccagtctt tcgactgagc ctttcgtttt
-      1861 atttgatgcc t
+      1201 ttcgtgtaga ctttccttgg tgtatccaac ggcgtcagcc gggcaggata tcagcaactt
+      1261 aaatagcctc taaggtttta agttttataa gaaaaaaaag aatatataag gcttttaaag
+      1321 cctttaaggt ttaacggttg tggacaacaa gccagggatg taacgcactg agaagccctt
+      1381 agagcctctc aaagcaattt tgagtgacac aggaacactt aacggctgac atggggcgcg
+      1441 cccagctgtc tagggcggcg gatttgtcct actcaggaga gcgttcaccg acaaacaaca
+      1501 gataaaacga aaggcccagt ctttcgactg agcctttcgt tttatttgat gcct
 
 //
 
